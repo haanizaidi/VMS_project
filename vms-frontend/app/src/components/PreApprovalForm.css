@@ -1,0 +1,79 @@
+/* components/PreApprovalForm.css */
+.pre-approval-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; /* Ensure the container takes at least the full viewport height */
+    background-color: #f5f5f5;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .pre-approval-form-container h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .pre-approval-form-container form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .pre-approval-form-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+  
+  .pre-approval-form-container input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .pre-approval-form-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .pre-approval-form-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .show-all-button {
+    width: 100%;
+    max-width: 275px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .show-all-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .message {
+    margin-top: 15px;
+    color: #333;
+    font-size: 1em;
+  }
