@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Visitor-Management-System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Designed a responsive website for Visitors management in a large organisation. Here admin can store all the details of the visitors on arrival and confirmation mail sent to the visited user.Visitor will checkout pnly when there email is entered by the admin.Moreover admin can see the Dashboard over there all the records of visited users is stored.
 
-## Available Scripts
 
-In the project directory, you can run:
+# Requirments-
+We need an application, which can capture the Name, email address, phone no of the visitor and
+same information also needs to be captured for the host on the front end.
+At the back end, once the user enters the information in the form, the backend should store all of
+the information with time stamp of the entry.
+This should trigger an email to the host informing him of the details of the visitor.
+There should also be a provision of the checkout time which the guest can provide once he
+leaves. This should trigger an email to the guest with the complete form which should include:
+1. Name
+2. Phone
+3. Check-in time,
+4. Check-out time,
+5. Host name
+6. Host email
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Example of the intended workflow
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Visitor Details:<br>
+Name - Anant Sharma<br>
+Email - a.sharma@xyz.com<br>
+Phone - 9999999999<br>
+Checkin Time - 9:00 AM IST<br>
+Checkout Time - 4:00 PM IST<br>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Host Details:<br>
+Name - Vishesh Singh<br>
+Email - vs@xyz.com<br>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Once Anant checks in and enters his details in the application, Vishesh should get an email stating the visitor details, and also Anant gets an Email with his UserId which will be required during Check Out.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+After the meeting or visit is over, and Anant checks out at 4:00 PM, Anant should get an emails
+that you are successfully checked out.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Main Page
 
-### `npm run eject`
+![Main Page](https://ibb.co/QBSVsbJ)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Registration Form
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Registration](https://ibb.co/j9VwnnFQ)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Dashboard Page
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Dashboard](https://ibb.co/bjDShjvF)
+![Dashboard](https://ibb.co/ZzyYG53P)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Database gets updated
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Database](https://ibb.co/YFq5QX3b)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Author: Haider Zaidi
