@@ -45,17 +45,17 @@ that you are successfully checked out.
 
 # Registration Form
 
-![Registration](https://i.ibb.co/nq31xxSY/Screenshot2.png)
+![Registration](https://i.ibb.co/yKRSQGs/Screenshot2.png)
 
 # Dashboard Page
 
 ![Dashboard](https://i.ibb.co/mrgLsry0/Screenshot3.png)
-![Dashboard](https://i.ibb.co/1GHd7135/Screenshot4.png)
+![Dashboard](https://i.ibb.co/DHVhRx2f/Screenshot4.png)
 
 
 # Database gets updated
 
-![Database](https://i.ibb.co/G4bZp90F/Screenshot5.png)
+![Database](https://i.ibb.co/pv8j7Nbr/Screenshot5.png)
 
 
 Author: Haider Zaidi
