@@ -41,21 +41,21 @@ that you are successfully checked out.
 
 # Main Page
 
-![Main Page](https://ibb.co/QBSVsbJ)
+![Main Page](https://i.ibb.co/jK0Y768/Screenshot1.png)
 
 # Registration Form
 
-![Registration](https://ibb.co/j9VwnnFQ)
+![Registration](https://i.ibb.co/nq31xxSY/Screenshot2.png)
 
 # Dashboard Page
 
-![Dashboard](https://ibb.co/bjDShjvF)
-![Dashboard](https://ibb.co/ZzyYG53P)
+![Dashboard](https://i.ibb.co/mrgLsry0/Screenshot3.png)
+![Dashboard](https://i.ibb.co/1GHd7135/Screenshot4.png)
 
 
 # Database gets updated
 
-![Database](https://ibb.co/YFq5QX3b)
+![Database](https://i.ibb.co/G4bZp90F/Screenshot5.png)
 
 
 Author: Haider Zaidi
