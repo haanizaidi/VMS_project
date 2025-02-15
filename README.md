@@ -41,7 +41,7 @@ that you are successfully checked out.
 
 # Main Page
 
-![Main Page](https://i.ibb.co/jK0Y768/Screenshot1.png)
+![Main Page](https://i.ibb.co/1tbTdK54/Screenshot1.png)
 
 # Registration Form
 
