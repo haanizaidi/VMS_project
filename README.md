@@ -58,4 +58,4 @@ that you are successfully checked out.
 ![Database](https://i.ibb.co/pv8j7Nbr/Screenshot5.png)
 
 
-Author: Haider Zaidi
+Author: Haani Zaidi
